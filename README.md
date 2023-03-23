@@ -30,6 +30,8 @@ import { SeatsioSeatingChart } from '@seatsio/seatsio-vue';
 </div>
 ```
 
+RANDOM CHANGE
+
 The chart uses 100 % of the width and height of the DOM element (e.g. a div) in which you render it. Play with the size of that element to change the chart size.
 
 ## Reacting to events
